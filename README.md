@@ -15,8 +15,11 @@ As an admin you can set custom waypoints in 3 dimenstionnal space in atmo and in
 
 
 ALT + 6 = start / stop admin mode for waypoints recording
+
 ALT + 7 = add custom waypoint
+
 ALT + 8 = remove last waypoint
+
 ALT + 9 = start / stop waypoints automatic recording (by default will save waypoints as you fly every x meters)
 
 
