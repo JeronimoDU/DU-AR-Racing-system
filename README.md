@@ -72,7 +72,15 @@ Can automatically save a waypoint list along the path you are flying
 
 ## Audio
 The script comes with a sound system which can be downloaded at the top of this page
+
 Sounds have to be placed in C:\YOURNAME\Documents\NQ\DualUniverse\audio\
+<br>
+<br>
+<br>
+<br>
+
+## DU Racing tracks
+All the DU Racing tracks waypoints can be downloaded onto your ship at Hadron's custom upload server
 <br>
 <br>
 <br>
