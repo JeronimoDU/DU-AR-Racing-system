@@ -46,7 +46,8 @@ Download and open with text file, copy content, ingame right clik on programming
 
 ## Recodring mode
 Only available if recordingMode == true
-Can automatically save a waypoint list along the path your are flying
+
+Can automatically save a waypoint list along the path you are flying
 | Chat Command | Description |
 | ------ | ------ |
 | print screen | Saves waypoints list into screen content |
