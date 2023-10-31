@@ -13,7 +13,8 @@ Augmented reality system for Dual Universe
 <br>
 <br>
   
-JSON AR-Racing script is to be installed in a programing board
+JSON AR-Racing script is to be installed in a programing board on your ship
+
 Download and open with text file, copy content, ingame right clik on programming board, paste from clipboard
 | Elements needed | Requierement | Link |
 | ------ | ------ | ------ |
