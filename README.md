@@ -1,42 +1,85 @@
 # DU-AR-Racing-system
 Augmented reality system for Dual Universe
 ![0d783cc74bc4aada9cc8d7f3476da7e](https://github.com/JeronimoDU/DU-AR-Racing-system/assets/75027025/ae2baa7c-b8e3-453a-b2ac-f44ec56d0425)
+<br>
+<br>
+<br>
+<br>
+  
 
+## Augmented reality waypoints for physical races anywhere at anytime
+<br>
+<br>
+<br>
+<br>
+  
+JSON AR-Racing script is to be installed in a programing board
+Download and open with text file, copy content, ingame right clik on programming board, paste from clipboard
+| Elements needed | Requierement | Link |
+| ------ | ------ | ------ |
+| Receiver | Necessary | To be linked on programming board 1st slot! |
+| Core | Necessary | Any |
+| Databank | Necessary | Any |
+| Emitter | Necessary | Any |
+| Screen | Optional / only used for track recording mode | Any |
+<br>
+<br>
+<br>
+<br>
 
-Augmented reality waypoints for physical races anywhere at anytime
+## Race mode
+| Chat Command | Description |
+| ------ | ------ |
+| force start | Force starts the current race |
+| reset race | Restarts the script |
+| reset all | Clears databank |
+| remove trackName | Remove a specific track from databank |
 
+| Key bind | Description |
+| ------ | ------ |
+| ALT+9 | Force starts the current race |
+<br>
+<br>
+<br>
+<br>
 
-JSON script is to be installed in a programing board
+## Recodring mode
+Only available if recordingMode == true
+Can automatically save a waypoint list along the path your are flying
+| Chat Command | Description |
+| ------ | ------ |
+| print screen | Saves waypoints list into screen content |
 
-As a regular user use the command force start to start the race
+| Key bind | Description |
+| ------ | ------ |
+| ALT+6 | Repops first waypoint marker |
+| ALT+7 | Adds manual waypoint |
+| ALT+8 | Removes last saved waypoint |
+| ALT+9 | Starts auto recording mode |
+<br>
+<br>
+<br>
+<br>
 
-
-As an admin you can set custom waypoints in 3 dimenstionnal space in atmo and in space, you can set a start date and time for your race, you can also configure an invisible bouding box the size of your construct for advanced display
-
-
-ALT + 6 = start / stop admin mode for waypoints recording
-
-ALT + 7 = add custom waypoint
-
-ALT + 8 = remove last waypoint
-
-ALT + 9 = start / stop waypoints automatic recording (by default will save waypoints as you fly every x meters)
-
-
-COMMANDS:
-
-reset race = reset script
-
-force start = force race start when a start date and time are set
-
-reset recording = reset previously saved in cache waypoints
-
-print to screen = print waypoints list to screen to be saved and copy pasted manually
-
-(plug a screen to programming board to copy and be able to paste waypoints into the script)
-
-
-
+## Parameters
 ![dualuniverse_2023-06-10_00h11m15s](https://github.com/JeronimoDU/DU-AR-Racing-system/assets/75027025/57a89026-494f-4d9b-b3c7-5e8217b810b1)
+<br>
+<br>
+<br>
+<br>
 
-sounds have to be placed in C:\YOURNAME\Documents\NQ\DualUniverse\audio\
+## Audio
+The script comes with a sound system which can be downloaded at the top of this page
+Sounds have to be placed in C:\YOURNAME\Documents\NQ\DualUniverse\audio\
+<br>
+<br>
+<br>
+<br>
+
+# COPY RIGHTS:
+
+You are free to use / modify it at will
+
+If anyone is interested to study it and develop further its possibilities, i ll be glad to communicate with you about it and post here some eventual updates made by other players
+
+DISCORD: Jeronimo#4624
