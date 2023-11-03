@@ -50,6 +50,7 @@ Only available if recordingMode == true
 Can automatically save a waypoint list along the path you are flying
 | Chat Command | Description |
 | ------ | ------ |
+| distance X | Changes the waypoints auto recording distance(replace X by a number) |
 | print to screen | Saves waypoints list into screen content |
 
 | Key bind | Description |
