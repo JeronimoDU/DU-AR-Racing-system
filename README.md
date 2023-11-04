@@ -21,8 +21,6 @@ Download and open with text file, copy content, ingame right clik on programming
 | Screen | Optional / only used for track recording mode | Any |
 <br>
 <br>
-<br>
-<br>
 
 ## Race mode
 | Chat Command | Description |
@@ -55,13 +53,9 @@ Can automatically save a waypoint list along the path you are flying
 | ALT+9 | Starts auto recording mode |
 <br>
 <br>
-<br>
-<br>
 
 ## Parameters
 ![dualuniverse_2023-06-10_00h11m15s](https://github.com/JeronimoDU/DU-AR-Racing-system/assets/75027025/57a89026-494f-4d9b-b3c7-5e8217b810b1)
-<br>
-<br>
 <br>
 <br>
 
@@ -74,7 +68,7 @@ Sounds have to be placed in C:\YOURNAME\Documents\NQ\DualUniverse\audio\
 <br>
 <br>
 
-## DU Racing tracks
+# DU Racing tracks
 All the DU Racing tracks waypoints can be downloaded onto your ship at Hadron's custom upload server
 <br>
 <br>
@@ -134,6 +128,14 @@ Only admin has acces to chat commands and keybinds
 | W/S | Displaces waypoints on screen on Y |
 | Q/E | Rotates waypoints on screen |
 | ALT+A/ALT+D | Rescales waypoints on screen |
+<br>
+<br>
+<br>
+<br>
+
+# DU-AR-Racing kit available at Hadron
+
+Go get your free racing kit at Hadron, with all prebuilt and preinstalled scripts ready to use!!!!
 <br>
 <br>
 <br>
