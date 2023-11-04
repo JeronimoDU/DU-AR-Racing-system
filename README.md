@@ -37,7 +37,7 @@ Download and open with text file, copy content, ingame right clik on programming
 <br>
 
 ## Recodring mode
-Only available if recordingMode == true
+Only available if recordingMode = true (check recordingMode variable in unit start of the script)
 
 Can automatically save a waypoint list along the path you are flying
 | Chat Command | Description |
@@ -133,9 +133,11 @@ Only admin has acces to chat commands and keybinds
 <br>
 <br>
 
-# DU-AR-Racing kit available at Hadron
+# DU-AR-Racing DIY kit available at Hadron
 
 Go get your free racing kit at Hadron, with all prebuilt and preinstalled scripts ready to use!!!!
+
+::pos{0,2,-21.6022,122.3792,-0.0001}
 <br>
 <br>
 <br>
