@@ -1,15 +1,10 @@
-# DU-AR-Racing-system
+# DU-AR-Racing.json
 Augmented reality system for Dual Universe
 ![0d783cc74bc4aada9cc8d7f3476da7e](https://github.com/JeronimoDU/DU-AR-Racing-system/assets/75027025/ae2baa7c-b8e3-453a-b2ac-f44ec56d0425)
 <br>
 <br>
-<br>
-<br>
-  
 
 ## Augmented reality waypoints for physical races anywhere at anytime
-<br>
-<br>
 <br>
 <br>
   
@@ -22,6 +17,7 @@ Download and open with text file, copy content, ingame right clik on programming
 | Core | Necessary | Any |
 | Databank | Necessary | Any |
 | Emitter | Necessary | Any |
+| Transponder | Optional / only used for map screen | none |
 | Screen | Optional / only used for track recording mode | Any |
 <br>
 <br>
@@ -39,8 +35,6 @@ Download and open with text file, copy content, ingame right clik on programming
 | Key bind | Description |
 | ------ | ------ |
 | ALT+9 | Force starts the current race |
-<br>
-<br>
 <br>
 <br>
 
@@ -82,6 +76,64 @@ Sounds have to be placed in C:\YOURNAME\Documents\NQ\DualUniverse\audio\
 
 ## DU Racing tracks
 All the DU Racing tracks waypoints can be downloaded onto your ship at Hadron's custom upload server
+<br>
+<br>
+<br>
+<br>
+
+# DU-AR-Racing-Leader board.json
+## Programming board code for screen score board display
+<br>
+<br>
+
+Download and open with text file, copy content, ingame right clik on programming board, paste from clipboard
+| Elements needed | Requierement | Link |
+| ------ | ------ | ------ |
+| Receiver | Necessary | To be linked on programming board 1st slot! |
+| Core | Necessary | Any |
+| Databank | Necessary | Any |
+| Manual Button | Necessary / used for reseting the scores | Any |
+| Manual Switch | Necessary / no use (work in progress) | Any |
+| Manual Switch | Necessary / elements needs to be named "kill" (kill switch linked to receiver and PB) | Any |
+| Screens | Necessary / can link multiple screens | Any |
+<br>
+<br>
+<br>
+<br>
+
+# DU-AR-Racing-Screen map.json
+## Programming board code for screen map display
+<br>
+<br>
+
+Download and open with text file, copy content, ingame right clik on programming board, paste from clipboard
+| Elements needed | Requierement | Link |
+| ------ | ------ | ------ |
+| Receiver | Necessary | To be linked on programming board 1st slot! |
+| Core | Necessary | Any |
+| Databank | Necessary | Any |
+| Transponder | Necessary | Any |
+| Emitter | Necessary | Any |
+| Screens | Necessary / can link multiple screens | Any |
+<br>
+<br>
+
+Only admin has acces to chat commands and keybinds
+| Chat Command | Description |
+| ------ | ------ |
+| reset params | Resets xy/scale/rot of waypoints on the screen |
+| reset orientation | Resets orientation vectors saved on first activation |
+| reset all | Clears databank |
+| remove trackName | Remove a specific track from databank |
+<br>
+<br>
+
+| Key bind | Description |
+| ------ | ------ |
+| A/D | Displaces waypoints on screen on X |
+| W/S | Displaces waypoints on screen on Y |
+| Q/E | Rotates waypoints on screen |
+| ALT+A/ALT+D | Rescales waypoints on screen |
 <br>
 <br>
 <br>
