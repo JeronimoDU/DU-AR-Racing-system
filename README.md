@@ -86,8 +86,8 @@ Download and open with text file, copy content, ingame right clik on programming
 | Receiver | Necessary | To be linked on programming board 1st slot! |
 | Databank | Necessary | Any |
 | Manual Switch | Necessary / Sorts best total time or best lap time | Any |
-| Manual Switch | Necessary / elements needs to be named "kill" (kill switch linked to receiver and PB) | Any |
-| Screens | Necessary / can link multiple screens | Any |
+| Manual Switch | Necessary / Elements needs to be named "kill" (kill switch linked to receiver and PB) | Any |
+| Screens | Necessary / Can link multiple screens, screens must be named "screen1" and "screen2"| Any |
 <br>
 <br>
 
