@@ -84,12 +84,18 @@ Download and open with text file, copy content, ingame right clik on programming
 | Elements needed | Requierement | Link |
 | ------ | ------ | ------ |
 | Receiver | Necessary | To be linked on programming board 1st slot! |
-| Core | Necessary | Any |
 | Databank | Necessary | Any |
-| Manual Button | Necessary / used for reseting the scores | Any |
-| Manual Switch | Necessary / no use (work in progress) | Any |
+| Manual Switch | Necessary / Sorts best total time or best lap time | Any |
 | Manual Switch | Necessary / elements needs to be named "kill" (kill switch linked to receiver and PB) | Any |
 | Screens | Necessary / can link multiple screens | Any |
+<br>
+<br>
+
+Only admin has acces to chat commands
+| Chat Command | Description |
+| ------ | ------ |
+| reset all | Clears databank |
+| remove playerName | Removes a specific player from databank |
 <br>
 <br>
 <br>
