@@ -33,6 +33,7 @@ Download and open with text file, copy content, ingame right clik on programming
 | Key bind | Description |
 | ------ | ------ |
 | ALT+9 | Force starts the current race |
+| ALT+0 | Force resume last paused race |
 <br>
 <br>
 
