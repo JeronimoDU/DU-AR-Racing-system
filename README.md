@@ -1,4 +1,4 @@
-# DU-AR-Racing.json v1.1
+# DU-AR-Racing.json v1.2
 Augmented reality system for Dual Universe
 ![0d783cc74bc4aada9cc8d7f3476da7e](https://github.com/JeronimoDU/DU-AR-Racing-system/assets/75027025/ae2baa7c-b8e3-453a-b2ac-f44ec56d0425)
 <br>
