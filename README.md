@@ -19,6 +19,7 @@ Download and open with text file, copy content, ingame right clik on programming
 | Emitter | Necessary | Any |
 | Transponder | Optional / only used for map screen | none |
 | Screen | Optional / only used for track recording mode | Any |
+| Manual button | Optional / used for force start or rename it "start" for synchronized start | Any |
 <br>
 <br>
 
